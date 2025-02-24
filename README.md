@@ -1,6 +1,6 @@
 # AI写作工具 - 免费AI写作生成器工具大全【2025年2月更新】
 
-> **更新时间：2025-02-22** 
+> **更新时间：2025-02-25** 
 
 本站整理收录了国内可用且免费的 **AI写作工具**，显著提高写作效率和质量，有需要的可自取。
 
@@ -34,8 +34,8 @@
 
 下面推荐一些高口碑、好用的 **AI写作工具**，免费且易于使用。
 
-- **一下AI写作([www.yixiaai.com](https://www.yixiaai.com/))** - **AI写作工具**，支持最强的ChatGPT模型（如GPT-4、4o和o1），支持 AI写作、AI文件、AI助手、AI插件等实用功能~
-- **AI智慧写作([chat.lify.vip](https://chat.lify.vip/))** - **AI写作助手**，支持国内外知名大模型，具备 AI文件、AI知识库、AI论文、AI文案、AI PPT等功能。
+- **一下AI写作([chat.yixiaai.com](https://chat.yixiaai.com/))** - **AI写作工具**，支持最强的ChatGPT模型（如GPT-4、4o和o1），支持 AI写作、AI文件、AI助手、AI插件等实用功能~
+- **AI智慧写作([chat.lify.vip](https://www.yixiaai.com/))** - **AI写作助手**，支持国内外知名大模型，具备 AI文件、AI知识库、AI论文、AI文案、AI PPT等功能。
 - **AI工具站([yixiaai.cn](https://yixiaai.cn))** - **AI工具站**，AI写作、AI绘画、AI编程、AI视频、AI办公，你想要的，这儿全都有~ 
 - **鲸鱼AI写作([ai.lansejingyu.com](https://ai.lansejingyu.com))** - 操作简单便捷，适合新手使用~
 - **蓝鲸AI写作([lanjing.ai](https://lanjing.ai)** - **AI助手**，支持 GPT-4、4o和o1等各种大模型，支持 MJ 绘画。
